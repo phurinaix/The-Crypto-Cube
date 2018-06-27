@@ -1,0 +1,1 @@
+The Crypto Cube web application
